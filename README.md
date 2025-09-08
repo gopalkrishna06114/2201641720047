@@ -48,7 +48,7 @@ cd url-shortener
 ```bash
 cd BACKEND
 npm install
-npm run dev
+npx nodemon
 ```
 Make sure to configure your **MongoDB connection string** and **JWT secret** in a `.env` file.
 
