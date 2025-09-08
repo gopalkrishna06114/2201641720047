@@ -65,7 +65,6 @@ npm run dev
 - **Frontend:** React, Vite, Redux Toolkit, React Query, TailwindCSS
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JWT
-- **Deployment:** Vercel / Render / Netlify (Frontend) & Railway / Heroku / AWS (Backend)
 
 ---
 
